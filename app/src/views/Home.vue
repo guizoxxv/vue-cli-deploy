@@ -1,13 +1,15 @@
 <template>
-  <header>
-    header
-  </header>
-  <main>
-    main
-  </main>
-  <footer>
-    footer
-  </footer>
+  <div class="">
+    <header>
+      header
+    </header>
+    <main>
+      main
+    </main>
+    <footer>
+      footer
+    </footer>
+  </div>
 </template>
 
 <script>
