@@ -1,14 +1,6 @@
 <template>
   <div>
-    <header>
-      header
-    </header>
-    <main>
-      main
-    </main>
-    <footer>
-      footer
-    </footer>
+    <h1>Deploy successful!</h1>
   </div>
 </template>
 
