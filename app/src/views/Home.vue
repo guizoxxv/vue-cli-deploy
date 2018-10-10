@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Deploy successful!</h1>
+    <h1>Dist deploy successful!</h1>
   </div>
 </template>
 
