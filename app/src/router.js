@@ -6,7 +6,7 @@ Vue.use(Router)
 
 export default new Router({
   mode: 'history',
-  base: '/vue-cli-deploy/',
+  base: process.env.VUE_APP_MODE === 'production' ? '/' : '/vue-cli-deploy/',
   routes: [
     {
       path: '/',

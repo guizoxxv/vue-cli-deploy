@@ -1,3 +1,3 @@
 module.exports = {
-  baseUrl: '/vue-cli-deploy/',
+  baseUrl: process.env.VUE_APP_MODE === 'production' ? '/vue-cli-deploy/' : '/',
 }
